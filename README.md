@@ -29,7 +29,7 @@ Currently, I am focused on software development, system design, and open-source 
 目前我專注於軟體開發、系統設計與開源技術的學習與實踐，期望成為一名能夠運用技術創造價值的軟體工程師。
 
 Education <br>
-Soochow University, B.S. in Information Management – Sept 2023– Jun 2027
+Soochow University, B.S. in Information Management *(Sept 2023 – Jun 2027)*
 
 ---
 
