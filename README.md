@@ -51,18 +51,18 @@ programming concepts, debugging, and exam problem solving for 60+ students per s
 
 ## 🚀 Projects
 
-**[Openbrowser](https://github.com/Openbrowser)** — Contributor · ⭐ 100+  
+**[Openbrowser](https://github.com/JasonHonKL/Openbrowser)** — Contributor · ⭐ 100+  
 - CDP-based autonomous browser agent framework for end-to-end web task automation.  
 - Designed the `skill.md` schema for LLM agent planning, reducing tool execution hallucinations
 - Contributed to feature development, issue discussions, and community collaboration
 
-**[Guide Glasses for the Visually Impaired](https://github.com/guide_glasses_project)** — Team Leader  
+**[Guide Glasses for the Visually Impaired](https://github.com/mato1321/guide_glasses_project_)** — Team Leader  
 Smart glasses with real-time object detection and face recognition.  
 - Used YOLO (Roboflow, Ultralytics, OpenCV) for real-time detection and segmentation
 - Built a FastAPI face recognition system using InsightFace with cosine similarity
 - Developed a Kotlin frontend framework for team integration
 
-**[Healixir](https://github.com/Healixir)**  
+**[Healixir](https://github.com/mato1321/Healixir)**  
 Personalized supplement recommendation system.  
 - Developed a multi-dimensional scoring algorithm for supplement recommendations
 - Built a full-stack system with React, FastAPI, and PostgreSQL
